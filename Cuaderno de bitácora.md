@@ -29,3 +29,5 @@ Entramos dentro del proyecto corriendo
   ![Entramos server](Trabajo_Laravel_Imagenes/04.Entramos_proyecto.png)
   
   ![Servidor funcionando](Trabajo_Laravel_Imagenes/05.Funciona_servidor.png)
+
+## Día 2
